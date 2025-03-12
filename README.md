@@ -1,4 +1,4 @@
-# Restorent Project
+# PHP Sidebar 
 
 ## Overview
 Restorent is a web application designed to manage restaurant operations. It includes features such as menu management, order processing, and customer management.
